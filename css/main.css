@@ -200,9 +200,9 @@ main {
 }
 
 .main_tap_wrapper .swiper-pagination {
-    width: 1170px;
-    left: 50%;
-    bottom: 47px;
+    width: 1170px !important;
+    left: 50% !important;
+    bottom: 47px !important;
     transform: translateX(-50%);
     display: flex;
     justify-content: flex-end;
