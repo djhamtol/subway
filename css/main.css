@@ -307,7 +307,6 @@ main {
     color: #292929;
     font-size: 40px;
     font-weight: bold;
-    font-family: font_sw, sans-serif;
     background: url(../images/bul_tit.png) no-repeat 0 12px;
     height: 60px;
     padding: 17px 0 0 25px;
@@ -592,7 +591,6 @@ main {
 .subway_wrapper .whats_news .news_header h2 {
     background: url(../images/bul_tit.png) no-repeat;
     padding: 17px 0 0 25px;
-    font-family: font_sw;
     font-size: 30px;
     font-weight: bold;
     height: 60px;
