@@ -446,7 +446,7 @@ main {
 }
 
 .subway_menu_wrapper .subway_menu ul.swiper-slide li p {
-    color: #999999;
+    color: #757575;
     font-size: 13px;
     line-height: 21px;
     letter-spacing: -0.04em;
@@ -647,7 +647,7 @@ main {
 .subway_wrapper .whats_news .board_list > a {
     display: inline-block;
     padding: 33px 0 8px;
-    color: #999999;
+    color: #757575;
     font-size: 14px;
 }
 
@@ -736,7 +736,7 @@ main {
 .quick_menu ul li span {
     display: block;
     padding-top: 6px;
-    color: #999999;
+    color: #757575;
     font-size: 13px;
     letter-spacing: -0.02em;
 }
@@ -762,7 +762,7 @@ footer ul.util {
 }
 
 footer ul.util li a {
-    color: #666666;
+    color: #968D8D;
     font-size: 14px;
     letter-spacing: -0.05em;
 }
@@ -779,6 +779,7 @@ footer ul.info {
 }
 
 footer ul.info li {
+    color: #968D8D;
     font-size: 13px;
     letter-spacing: -0.01em;
 }
@@ -797,6 +798,7 @@ footer ul.info li:last-child:after {
 }
 
 footer p {
+    color: #968D8D;
     font-size: 13px;
     line-height: 25px;
     letter-spacing: 0.005em;
