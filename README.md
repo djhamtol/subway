@@ -1,4 +1,4 @@
-# [SUBWAY](https://djhamtol.github.io/subway)
+# [SUBWAY](https://djhamtol.github.io/subway/)
 
 >SUBWAY 웹사이트를 참고하여 제작한 클론 코딩 프로젝트입니다.<br>
 첫 작업물로, 학습한 퍼블리싱 기술을 프로젝트에 적용하고 원본 사이트를 참고하여 실무적인 작업 방식을 익히는 데 집중했습니다.<br>
