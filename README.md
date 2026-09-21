@@ -5,14 +5,10 @@
 슬라이드 라이브러리인 Swiper를 활용하여 슬라이드 구현 방법을 익혔습니다.<br>
 학습 과정에서 작성한 주석이 다수 포함되어 있습니다.
 
-<br>
-
 ## 🐹 담당
 
 - 퍼블리싱 100%
 - 메인 페이지
-
-<br>
 
 ## 🛠️ 기술 스택
 
@@ -21,16 +17,13 @@
 ![jQuery](https://img.shields.io/badge/jQuery-0769AD?style=flat&logo=jquery&logoColor=white)
 ![Swiper](https://img.shields.io/badge/Swiper-6332F6?style=flat&logo=swiper&logoColor=white)
 
-<br>
-
 ## ✨ 주요 기능
 
 - 적응형 웹 페이지 구현
 - Swiper를 활용한 슬라이드 구현
 
-<br>
-
 ## 🔍 원본과 다른 점
+
 | 구분 | 원본 | 클론 |
 | --- | --- | --- |
 | 정렬 | table, float 사용 | flex 사용 |
